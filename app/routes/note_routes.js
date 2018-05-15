@@ -2,7 +2,6 @@
 module.exports = function(app, db) {
 
     var ObjectID = require('mongodb').ObjectID;
-
     app.get('/notes/:id', (req, res) => {
         const id = req.params.id;
         const details = { '_id': new ObjectID(id) };

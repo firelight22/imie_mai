@@ -5,7 +5,7 @@ const app            = express();
 const db             = require('./config/db');
 
 
-const port = 8000;
+const port = 8080;
 app.use(bodyParser.urlencoded({ extended: true }));
 
 MongoClient.connect(db.url, (err, database) => {

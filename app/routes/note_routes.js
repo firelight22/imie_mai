@@ -35,22 +35,26 @@ module.exports = function(app, db) {
           });
       });
       app.get('/message', (req, res) => {
-          db.collection('messages').find( (err, item) => {
+          db.collection('messages').find((err, items) => {
             if (err) {
               res.send({'error':'An error has occurred'});
             } else {
-              res.send(item);
+                items.toArray(function(err, docs) {
+                    console.log("Found the following records");
+                    console.log(docs)
+                    res.send(docs);
+                });
             }
           });
       });
-        app.post('/message', (req, res) => {
-          const message = { text: req.body.body};
-          db.collection('messages').insert(message, (err, result) => {
-            if (err) {
-              res.send({ 'error': 'An error has occurred' });
-            } else {
-              res.send(result.ops[0]);
-            }
-          });
+      app.post('/message', (req, res) => {
+        const message = { message: req.body.message,pseudo: req.body.pseudo};
+        db.collection('messages').insert(message, (err, result) => {
+          if (err) {
+            res.send({ 'error': 'An error has occurred' });
+          } else {
+            res.send(result.ops[0]);
+          }
         });
+      });
 };

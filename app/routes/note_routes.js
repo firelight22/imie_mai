@@ -34,17 +34,8 @@ module.exports = function(app, db) {
             }
           });
       });
-      app.get('/message', (req, res) => {
-          db.collection('messages').find( (err, item) => {
-            if (err) {
-              res.send({'error':'An error has occurred'});
-            } else {
-              res.send(item);
-            }
-          });
-      });
         app.post('/message', (req, res) => {
-          const message = { text: req.body.body};
+          const message = { message: req.body.message,pseudo: req.body.pseudo};
           db.collection('messages').insert(message, (err, result) => {
             if (err) {
               res.send({ 'error': 'An error has occurred' });

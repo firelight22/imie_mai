@@ -4,70 +4,6 @@
     <list default="true" id="b8740f57-6d08-4864-9e76-c22cf69af6f9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/app/routes/note_routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/note_routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/buffer-shims/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/buffer-shims/license.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/buffer-shims/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/buffer-shims/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/dist/es6-promise.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/dist/es6-promise.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise.umd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/-internal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/asap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/enumerator.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/polyfill.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/race.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/reject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/promise/resolve.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/then.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/lib/es6-promise/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/es6-promise/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/HISTORY.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/TESTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/blocking_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/connect_test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/gssapi.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/gssapi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/mongocr.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/mongocr.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/plain.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/plain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/scram.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/scram.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/sspi.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/sspi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/x509.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/auth/x509.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/command_result.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/command_result.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/commands.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/commands.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/connection.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/connection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/logger.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/pool.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/pool.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/cursor.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/cursor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/error.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/tools/smoke_plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/tools/smoke_plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/mongos.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/mongos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/read_preference.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/read_preference.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/replset.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/replset.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/replset_state.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/replset_state.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/shared.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/topologies/shared.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/2_4_support.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/2_6_support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/2_6_support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/3_2_support.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/3_2_support.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/commands.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/shared.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/lib/wireprotocol/shared.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb-core/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/simple_2_document_limit_toArray.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/test1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/test_bug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb-core/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/mongodb/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/mongodb/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -270,12 +206,12 @@
       <updated>1526495960452</updated>
       <workItem from="1526502914186" duration="72000" />
       <workItem from="1526503005718" duration="701000" />
-      <workItem from="1526503892288" duration="3611000" />
+      <workItem from="1526503892288" duration="3859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4384000" />
+    <option name="totallyTimeSpent" value="4632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />

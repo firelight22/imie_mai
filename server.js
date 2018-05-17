@@ -10,11 +10,8 @@ MongoClient.connect(db.url, (err, database) => {
   if (err) return console.log(err)
 
   // Make sure you add the database name and not the collection name
-<<<<<<< HEAD
-  database = database.db("imie_mai");
-=======
-  database = database.db("local");
->>>>>>> bf84da129b654499d9fae3da57859e41d3007bce
+
+  database = database.db("sampledb");
   require('./app/routes')(app, database);
   app.listen(port, () => {
     console.log('We are live on ' + port);

@@ -11,8 +11,8 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "mongodb": "^2.2.19",
-    "fcm-node": "*"
+    "fcm-node": "*",
+    "mongodb": "^3.0"
   },
   "devDependencies": {
     "nodemon": "^1.17.4"
